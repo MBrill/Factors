@@ -1,0 +1,19 @@
+# Java class-Files
+**/*.class
+
+# Backup-Files unserer ASCII-Editoren
+**/*~
+**/*.bak
+
+# Profile-Verzeichnisse aus der Kontrollfrage
+[Bb]in/
+
+# Die Ergebnisse sind reproduzierbar, deshalb werden die
+# Verzeichnisse html (doxygen) und doc (javadoc) ignoriert.
+[Hh]tml/
+[Dd]oc/
+
+# Eclipse Projektinfos
+.classpath
+.project
+.settings/
